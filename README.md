@@ -6,7 +6,7 @@ docker build
 
 #### docker container 起動
 ```
-docker compose up -d
+docker-compose up -d
 ```
 
 #### 起動後のcontainerに入る
