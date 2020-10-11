@@ -1,7 +1,7 @@
 #### docker imageを作成 
  
 ```
-docker build
+docker-compose build
 ```
 
 #### docker container 起動
